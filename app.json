@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "NutriApp",
+    "slug": "nutriapp",
+    "version": "1.0.0",
+    "scheme": "nutriapp",
+    "icon": "./assets/icon.png",
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.khairuldanial.nutriapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b68200b0-7b32-457c-8dfd-1964fefe498d"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-image",
+      "expo-router",
+      "expo-splash-screen",
+      "expo-sqlite",
+      "expo-status-bar",
+      "expo-web-browser"
+    ]
+  }
+}
