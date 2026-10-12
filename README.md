@@ -16,7 +16,6 @@ A cross-platform mobile nutrition tracking app built with React Native and Expo.
 - EAS Build for APK generation
 
 ## Setup
-## Setup
 1. Clone the repo
 2. Run `npm install`
 3. Create a `.env` file in the root with:
