@@ -1,4 +1,4 @@
-# NutriApp — AI Macro Tracker
+# NutriApp - AI Macro Tracker
 
 A cross-platform mobile nutrition tracking app built with React Native and Expo.
 
