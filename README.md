@@ -1,5 +1,5 @@
 # NutriApp - AI Macro Tracker
-
+Hello! it is just a personal passion project of mine. Since I'm into fitness, I have always wanted an easier way to measure my calorie and protein intake. Manually typing into ChatGPT my meals and logging them on my notepad app is a hassle and other 3rd party apps out there on the appstore are too tedious and would always require a subscription to use. Hence this is where I got the idea to make my own app for my own personal use. You can use it as well as long as you have your own OpenAI api key and deploy your own Vercel backend! Happy using!
 A cross-platform mobile nutrition tracking app built with React Native and Expo.
 
 ## Features
