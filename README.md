@@ -16,5 +16,10 @@ A cross-platform mobile nutrition tracking app built with React Native and Expo.
 - EAS Build for APK generation
 
 ## Setup
-- its currently broken at the moment since SDK has updated to SDK 57. The project was previously made in SDK 54.
-- I have tried to fix it by updating the project to SDK 57 but it's still not working.
+## Setup
+1. Clone the repo
+2. Run `npm install`
+3. Create a `.env` file in the root with:
+   EXPO_PUBLIC_API_URL=your_vercel_url_here
+4. Deploy your own Vercel backend from `/backend`
+5. Run `npx expo start`

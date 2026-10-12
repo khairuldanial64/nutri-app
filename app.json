@@ -12,22 +12,14 @@
       "package": "com.khairuldanial.nutriapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#000000"
+        "backgroundColor": "#1D9E75"
       }
     },
     "extra": {
+      "apiUrl": "YOUR_VERCEL_URL_HERE",
       "eas": {
         "projectId": "b68200b0-7b32-457c-8dfd-1964fefe498d"
       }
-    },
-    "plugins": [
-      "expo-font",
-      "expo-image",
-      "expo-router",
-      "expo-splash-screen",
-      "expo-sqlite",
-      "expo-status-bar",
-      "expo-web-browser"
-    ]
+    }
   }
 }
